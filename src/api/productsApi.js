@@ -2,7 +2,7 @@
 import axios from "axios"
 import jwtAxios from "../util/jwtUtil"
 
-export const API_SERVER_HOST = 'https://mallapi:8080'
+export const API_SERVER_HOST = 'http://mallapi:8080'
 
 const host = `${API_SERVER_HOST}/api/products`
 

@@ -2,7 +2,7 @@ import axios from "axios";
 import { API_SERVER_HOST } from "./productsApi";
 
 const rest_api_key = "c210477e38c93adb2e4b568dcb938b8f"
-const redirect_uri = "http://mallapi:8080/member/kakao"
+const redirect_uri = "https://port-0-mallapi-4fju66f2clmu7lni8.sel5.cloudtype.app/member/kakao"
 
 const auth_code_path = "https://kauth.kakao.com/oauth/authorize"
 
